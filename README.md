@@ -5,6 +5,7 @@ A node package template to quickly jump into Playwright testing with Jest
 * Node.js >= 10.15.0
 * Playwright >= 0.12.1
 * Jest >= 25
+* Yarn >= 1.22.5
 
 ## Links
 * [Playwright Docs](https://playwright.dev/docs/api/class-playwright)
